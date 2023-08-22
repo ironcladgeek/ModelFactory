@@ -1,0 +1,5 @@
+fastai==2.7.12
+mlflow==2.6.0
+timm==0.9.5
+torch==1.13.1
+torchvision==0.14.1
